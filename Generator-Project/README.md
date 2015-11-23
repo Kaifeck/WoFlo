@@ -18,7 +18,7 @@ npm test
 
 # Authors
 
-- [Hannes Moser](mailto:hannes@impossiblearts.com)
+- [Ryan Wels](mailto:RyanLSWels@gmail.com)
 
 # License
 
