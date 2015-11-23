@@ -1,0 +1,22 @@
+{
+  "name": "generator-04-generator",
+  "version": "1.0.0",
+  "description": "Fourth Assignment for Web Production Workflows",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "yeoman-generator",
+    "project",
+    "automization",
+    "setup"
+  ],
+  "author": "Ryan Wels <RyanLSWels@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "git-info": "^1.0.1",
+    "yeoman-generator": "^0.21.1"
+  },
+  "dependencies": {
+    "inquirer": "^0.11.0"
+  }
+}
